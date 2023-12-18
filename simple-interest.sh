@@ -4,7 +4,7 @@
 
    <span class="hljs-comment"># Do not use this in production. Sample purpose only.</span>
 
-   <span class="hljs-comment"># Author: Upkar Lidder (IBM)</span>
+   <span class="hljs-comment"># Author: Shaik Muhammed Abdur Rehman </span>
    <span class="hljs-comment"># Additional Authors:</span>
    <span class="hljs-comment"># amrehman3;your GitHub username></span>
 
