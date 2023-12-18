@@ -6,7 +6,7 @@
 
    <span class="hljs-comment"># Author: Upkar Lidder (IBM)</span>
    <span class="hljs-comment"># Additional Authors:</span>
-   <span class="hljs-comment"># &#x3C;your GitHub username></span>
+   <span class="hljs-comment"># amrehman3;your GitHub username></span>
 
    <span class="hljs-comment"># Input:</span>
    <span class="hljs-comment"># p, principal amount</span>
